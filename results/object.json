@@ -1,0 +1,2068 @@
+{
+    "products": {
+        "BOSS_t1p1_1": {
+            "label": 0,
+            "color": [
+                110,
+                24,
+                80
+            ],
+            "inst_id": 4
+        },
+        "BOSS_t1p1_2": {
+            "label": 0,
+            "color": [
+                154,
+                233,
+                182
+            ],
+            "inst_id": 5
+        },
+        "BOSS_t1p1_3": {
+            "label": 0,
+            "color": [
+                105,
+                148,
+                93
+            ],
+            "inst_id": 6
+        },
+        "BOSS_t1p1_4": {
+            "label": 0,
+            "color": [],
+            "inst_id": 7
+        },
+        "BOSS_t1p1_5": {
+            "label": 0,
+            "color": [
+                44,
+                137,
+                21
+            ],
+            "inst_id": 8
+        },
+        "BOSS_t1p1_6": {
+            "label": 0,
+            "color": [
+                22,
+                152,
+                45
+            ],
+            "inst_id": 9
+        },
+        "BOSS_t1p1_7": {
+            "label": 0,
+            "color": [
+                164,
+                55,
+                195
+            ],
+            "inst_id": 10
+        },
+        "BOSS_t1p1_8": {
+            "label": 0,
+            "color": [
+                61,
+                85,
+                193
+            ],
+            "inst_id": 11
+        },
+        "BOSS_t1p2_1": {
+            "label": 0,
+            "color": [
+                26,
+                202,
+                0
+            ],
+            "inst_id": 12
+        },
+        "BOSS_t1p2_2": {
+            "label": 0,
+            "color": [],
+            "inst_id": 13
+        },
+        "BOSS_t1p2_3": {
+            "label": 0,
+            "color": [
+                94,
+                159,
+                194
+            ],
+            "inst_id": 14
+        },
+        "BOSS_t1p2_4": {
+            "label": 0,
+            "color": [],
+            "inst_id": 15
+        },
+        "BOSS_t1p2_5": {
+            "label": 0,
+            "color": [],
+            "inst_id": 16
+        },
+        "BOSS_t2p1_1": {
+            "label": 0,
+            "color": [
+                203,
+                116,
+                83
+            ],
+            "inst_id": 17
+        },
+        "BOSS_t2p1_2": {
+            "label": 0,
+            "color": [
+                150,
+                199,
+                211
+            ],
+            "inst_id": 18
+        },
+        "BOSS_t2p1_3": {
+            "label": 0,
+            "color": [
+                116,
+                219,
+                31
+            ],
+            "inst_id": 19
+        },
+        "BOSS_t2p1_4": {
+            "label": 0,
+            "color": [
+                198,
+                128,
+                118
+            ],
+            "inst_id": 20
+        },
+        "BOSS_t2p2_1": {
+            "label": 0,
+            "color": [
+                57,
+                47,
+                150
+            ],
+            "inst_id": 21
+        },
+        "BOSS_t2p2_2": {
+            "label": 0,
+            "color": [
+                79,
+                169,
+                195
+            ],
+            "inst_id": 22
+        },
+        "BOSS_t2p2_3": {
+            "label": 0,
+            "color": [
+                161,
+                54,
+                110
+            ],
+            "inst_id": 23
+        },
+        "BOSS_t2p2_4": {
+            "label": 0,
+            "color": [
+                86,
+                217,
+                203
+            ],
+            "inst_id": 24
+        },
+        "BOSS_t2p2_5": {
+            "label": 0,
+            "color": [
+                110,
+                236,
+                75
+            ],
+            "inst_id": 25
+        },
+        "BOSS_t2p2_6": {
+            "label": 0,
+            "color": [
+                127,
+                119,
+                143
+            ],
+            "inst_id": 26
+        },
+        "BOSS_t2p2_7": {
+            "label": 0,
+            "color": [
+                187,
+                36,
+                2
+            ],
+            "inst_id": 27
+        },
+        "BOSS_t3p1_1": {
+            "label": 0,
+            "color": [
+                128,
+                110,
+                213
+            ],
+            "inst_id": 28
+        },
+        "BOSS_t3p1_2": {
+            "label": 0,
+            "color": [
+                230,
+                122,
+                176
+            ],
+            "inst_id": 29
+        },
+        "BOSS_t3p1_3": {
+            "label": 0,
+            "color": [
+                179,
+                25,
+                228
+            ],
+            "inst_id": 30
+        },
+        "BOSS_t3p2_1": {
+            "label": 0,
+            "color": [
+                72,
+                43,
+                202
+            ],
+            "inst_id": 31
+        },
+        "BOSS_t3p2_2": {
+            "label": 0,
+            "color": [
+                254,
+                109,
+                118
+            ],
+            "inst_id": 32
+        },
+        "BOSS_t3p2_3": {
+            "label": 0,
+            "color": [
+                174,
+                39,
+                247
+            ],
+            "inst_id": 33
+        },
+        "BOSS_t3p2_4": {
+            "label": 0,
+            "color": [
+                122,
+                0,
+                27
+            ],
+            "inst_id": 34
+        },
+        "BOSS_t4p1_1": {
+            "label": 0,
+            "color": [
+                3,
+                164,
+                183
+            ],
+            "inst_id": 35
+        },
+        "BOSS_t4p1_2": {
+            "label": 0,
+            "color": [
+                66,
+                151,
+                210
+            ],
+            "inst_id": 36
+        },
+        "BOSS_t4p1_3": {
+            "label": 0,
+            "color": [
+                203,
+                84,
+                17
+            ],
+            "inst_id": 37
+        },
+        "BOSS_t4p1_4": {
+            "label": 0,
+            "color": [
+                40,
+                142,
+                240
+            ],
+            "inst_id": 38
+        },
+        "BOSS_t4p1_5": {
+            "label": 0,
+            "color": [
+                70,
+                101,
+                132
+            ],
+            "inst_id": 39
+        },
+        "BOSS_t5p1_1": {
+            "label": 0,
+            "color": [
+                36,
+                112,
+                225
+            ],
+            "inst_id": 40
+        },
+        "BOSS_t5p1_2": {
+            "label": 0,
+            "color": [
+                207,
+                196,
+                75
+            ],
+            "inst_id": 41
+        },
+        "BOSS_t5p1_3": {
+            "label": 0,
+            "color": [
+                172,
+                157,
+                220
+            ],
+            "inst_id": 42
+        },
+        "BOSS_t5p1_4": {
+            "label": 0,
+            "color": [
+                75,
+                221,
+                155
+            ],
+            "inst_id": 43
+        },
+        "BOSS_t5p1_5": {
+            "label": 0,
+            "color": [
+                148,
+                139,
+                193
+            ],
+            "inst_id": 44
+        },
+        "BOSS_t5p1_6": {
+            "label": 0,
+            "color": [
+                79,
+                105,
+                91
+            ],
+            "inst_id": 45
+        },
+        "CK_t1p1_1": {
+            "label": 0,
+            "color": [],
+            "inst_id": 59
+        },
+        "CK_t1p1_10": {
+            "label": 0,
+            "color": [],
+            "inst_id": 60
+        },
+        "CK_t1p1_11": {
+            "label": 0,
+            "color": [],
+            "inst_id": 61
+        },
+        "CK_t1p1_12": {
+            "label": 0,
+            "color": [],
+            "inst_id": 62
+        },
+        "CK_t1p1_13": {
+            "label": 0,
+            "color": [],
+            "inst_id": 63
+        },
+        "CK_t1p1_14": {
+            "label": 0,
+            "color": [],
+            "inst_id": 64
+        },
+        "CK_t1p1_15": {
+            "label": 0,
+            "color": [],
+            "inst_id": 65
+        },
+        "CK_t1p1_16": {
+            "label": 0,
+            "color": [],
+            "inst_id": 66
+        },
+        "CK_t1p1_17": {
+            "label": 0,
+            "color": [],
+            "inst_id": 67
+        },
+        "CK_t1p1_18": {
+            "label": 0,
+            "color": [],
+            "inst_id": 68
+        },
+        "CK_t1p1_19": {
+            "label": 0,
+            "color": [],
+            "inst_id": 69
+        },
+        "CK_t1p1_2": {
+            "label": 0,
+            "color": [],
+            "inst_id": 70
+        },
+        "CK_t1p1_20": {
+            "label": 0,
+            "color": [],
+            "inst_id": 71
+        },
+        "CK_t1p1_21": {
+            "label": 0,
+            "color": [],
+            "inst_id": 72
+        },
+        "CK_t1p1_22": {
+            "label": 0,
+            "color": [],
+            "inst_id": 73
+        },
+        "CK_t1p1_23": {
+            "label": 0,
+            "color": [],
+            "inst_id": 74
+        },
+        "CK_t1p1_24": {
+            "label": 0,
+            "color": [],
+            "inst_id": 75
+        },
+        "CK_t1p1_25": {
+            "label": 0,
+            "color": [],
+            "inst_id": 76
+        },
+        "CK_t1p1_26": {
+            "label": 0,
+            "color": [],
+            "inst_id": 77
+        },
+        "CK_t1p1_27": {
+            "label": 0,
+            "color": [],
+            "inst_id": 78
+        },
+        "CK_t1p1_28": {
+            "label": 0,
+            "color": [],
+            "inst_id": 79
+        },
+        "CK_t1p1_29": {
+            "label": 0,
+            "color": [],
+            "inst_id": 80
+        },
+        "CK_t1p1_3": {
+            "label": 0,
+            "color": [],
+            "inst_id": 81
+        },
+        "CK_t1p1_30": {
+            "label": 0,
+            "color": [],
+            "inst_id": 82
+        },
+        "CK_t1p1_4": {
+            "label": 0,
+            "color": [],
+            "inst_id": 83
+        },
+        "CK_t1p1_5": {
+            "label": 0,
+            "color": [],
+            "inst_id": 84
+        },
+        "CK_t1p1_6": {
+            "label": 0,
+            "color": [],
+            "inst_id": 85
+        },
+        "CK_t1p1_7": {
+            "label": 0,
+            "color": [],
+            "inst_id": 86
+        },
+        "CK_t1p1_8": {
+            "label": 0,
+            "color": [],
+            "inst_id": 87
+        },
+        "CK_t1p1_9": {
+            "label": 0,
+            "color": [],
+            "inst_id": 88
+        },
+        "CK_t2p1_1": {
+            "label": 0,
+            "color": [],
+            "inst_id": 89
+        },
+        "CK_t2p1_10": {
+            "label": 0,
+            "color": [],
+            "inst_id": 90
+        },
+        "CK_t2p1_11": {
+            "label": 0,
+            "color": [],
+            "inst_id": 91
+        },
+        "CK_t2p1_12": {
+            "label": 0,
+            "color": [],
+            "inst_id": 92
+        },
+        "CK_t2p1_13": {
+            "label": 0,
+            "color": [],
+            "inst_id": 93
+        },
+        "CK_t2p1_14": {
+            "label": 0,
+            "color": [],
+            "inst_id": 94
+        },
+        "CK_t2p1_15": {
+            "label": 0,
+            "color": [],
+            "inst_id": 95
+        },
+        "CK_t2p1_16": {
+            "label": 0,
+            "color": [],
+            "inst_id": 96
+        },
+        "CK_t2p1_17": {
+            "label": 0,
+            "color": [],
+            "inst_id": 97
+        },
+        "CK_t2p1_18": {
+            "label": 0,
+            "color": [],
+            "inst_id": 98
+        },
+        "CK_t2p1_19": {
+            "label": 0,
+            "color": [],
+            "inst_id": 99
+        },
+        "CK_t2p1_2": {
+            "label": 0,
+            "color": [],
+            "inst_id": 100
+        },
+        "CK_t2p1_20": {
+            "label": 0,
+            "color": [],
+            "inst_id": 101
+        },
+        "CK_t2p1_21": {
+            "label": 0,
+            "color": [],
+            "inst_id": 102
+        },
+        "CK_t2p1_22": {
+            "label": 0,
+            "color": [],
+            "inst_id": 103
+        },
+        "CK_t2p1_23": {
+            "label": 0,
+            "color": [],
+            "inst_id": 104
+        },
+        "CK_t2p1_24": {
+            "label": 0,
+            "color": [],
+            "inst_id": 105
+        },
+        "CK_t2p1_25": {
+            "label": 0,
+            "color": [],
+            "inst_id": 106
+        },
+        "CK_t2p1_26": {
+            "label": 0,
+            "color": [],
+            "inst_id": 107
+        },
+        "CK_t2p1_27": {
+            "label": 0,
+            "color": [],
+            "inst_id": 108
+        },
+        "CK_t2p1_28": {
+            "label": 0,
+            "color": [],
+            "inst_id": 109
+        },
+        "CK_t2p1_29": {
+            "label": 0,
+            "color": [],
+            "inst_id": 110
+        },
+        "CK_t2p1_3": {
+            "label": 0,
+            "color": [],
+            "inst_id": 111
+        },
+        "CK_t2p1_30": {
+            "label": 0,
+            "color": [],
+            "inst_id": 112
+        },
+        "CK_t2p1_4": {
+            "label": 0,
+            "color": [],
+            "inst_id": 113
+        },
+        "CK_t2p1_5": {
+            "label": 0,
+            "color": [],
+            "inst_id": 114
+        },
+        "CK_t2p1_6": {
+            "label": 0,
+            "color": [],
+            "inst_id": 115
+        },
+        "CK_t2p1_7": {
+            "label": 0,
+            "color": [],
+            "inst_id": 116
+        },
+        "CK_t2p1_8": {
+            "label": 0,
+            "color": [],
+            "inst_id": 117
+        },
+        "CK_t2p1_9": {
+            "label": 0,
+            "color": [],
+            "inst_id": 118
+        },
+        "CK_t3p1_1": {
+            "label": 0,
+            "color": [],
+            "inst_id": 119
+        },
+        "CK_t3p1_2": {
+            "label": 0,
+            "color": [],
+            "inst_id": 120
+        },
+        "CK_t3p1_3": {
+            "label": 0,
+            "color": [],
+            "inst_id": 121
+        },
+        "CK_t3p1_4": {
+            "label": 0,
+            "color": [],
+            "inst_id": 122
+        },
+        "CK_t3p1_5": {
+            "label": 0,
+            "color": [],
+            "inst_id": 123
+        },
+        "CK_t3p1_6": {
+            "label": 0,
+            "color": [],
+            "inst_id": 124
+        },
+        "CK_t3p1_7": {
+            "label": 0,
+            "color": [],
+            "inst_id": 125
+        },
+        "CK_t3p1_8": {
+            "label": 0,
+            "color": [],
+            "inst_id": 126
+        },
+        "CK_t3p2_1": {
+            "label": 0,
+            "color": [],
+            "inst_id": 127
+        },
+        "CK_t3p2_2": {
+            "label": 0,
+            "color": [],
+            "inst_id": 128
+        },
+        "CK_t3p2_3": {
+            "label": 0,
+            "color": [],
+            "inst_id": 129
+        },
+        "CK_t3p2_4": {
+            "label": 0,
+            "color": [],
+            "inst_id": 130
+        },
+        "CK_t4p1_1": {
+            "label": 0,
+            "color": [],
+            "inst_id": 131
+        },
+        "CK_t4p1_2": {
+            "label": 0,
+            "color": [],
+            "inst_id": 132
+        },
+        "CK_t4p1_3": {
+            "label": 0,
+            "color": [],
+            "inst_id": 133
+        },
+        "CK_t4p1_4": {
+            "label": 0,
+            "color": [],
+            "inst_id": 134
+        },
+        "CK_t4p1_5": {
+            "label": 0,
+            "color": [],
+            "inst_id": 135
+        },
+        "CK_t4p1_6": {
+            "label": 0,
+            "color": [],
+            "inst_id": 136
+        },
+        "CK_t4p1_7": {
+            "label": 0,
+            "color": [],
+            "inst_id": 137
+        },
+        "CK_t4p1_8": {
+            "label": 0,
+            "color": [],
+            "inst_id": 138
+        },
+        "CK_t4p1_9": {
+            "label": 0,
+            "color": [],
+            "inst_id": 139
+        },
+        "CK_t4p2_1": {
+            "label": 0,
+            "color": [],
+            "inst_id": 140
+        },
+        "CK_t4p2_2": {
+            "label": 0,
+            "color": [],
+            "inst_id": 141
+        },
+        "CK_t4p2_3": {
+            "label": 0,
+            "color": [],
+            "inst_id": 142
+        },
+        "CK_t4p2_4": {
+            "label": 0,
+            "color": [],
+            "inst_id": 143
+        },
+        "CK_t4p2_5": {
+            "label": 0,
+            "color": [],
+            "inst_id": 144
+        },
+        "CK_t4p2_6": {
+            "label": 0,
+            "color": [],
+            "inst_id": 145
+        },
+        "CK_t5p1_1": {
+            "label": 0,
+            "color": [],
+            "inst_id": 146
+        },
+        "CK_t5p1_2": {
+            "label": 0,
+            "color": [],
+            "inst_id": 147
+        },
+        "CK_t5p1_3": {
+            "label": 0,
+            "color": [],
+            "inst_id": 148
+        },
+        "CK_t5p1_4": {
+            "label": 0,
+            "color": [],
+            "inst_id": 149
+        },
+        "CK_t5p1_5": {
+            "label": 0,
+            "color": [],
+            "inst_id": 150
+        },
+        "CK_t5p1_6": {
+            "label": 0,
+            "color": [],
+            "inst_id": 151
+        },
+        "CK_t5p1_7": {
+            "label": 0,
+            "color": [],
+            "inst_id": 152
+        },
+        "CK_t5p1_8": {
+            "label": 0,
+            "color": [],
+            "inst_id": 153
+        },
+        "CK_t5p1_9": {
+            "label": 0,
+            "color": [],
+            "inst_id": 154
+        },
+        "DAVIDOFF_t1p1_1": {
+            "label": 0,
+            "color": [
+                194,
+                218,
+                182
+            ],
+            "inst_id": 165
+        },
+        "DAVIDOFF_t1p1_2": {
+            "label": 0,
+            "color": [
+                43,
+                225,
+                40
+            ],
+            "inst_id": 166
+        },
+        "DAVIDOFF_t1p1_3": {
+            "label": 0,
+            "color": [
+                186,
+                79,
+                233
+            ],
+            "inst_id": 167
+        },
+        "DAVIDOFF_t1p1_4": {
+            "label": 0,
+            "color": [
+                173,
+                126,
+                206
+            ],
+            "inst_id": 168
+        },
+        "DAVIDOFF_t1p1_5": {
+            "label": 0,
+            "color": [
+                160,
+                185,
+                143
+            ],
+            "inst_id": 169
+        },
+        "DAVIDOFF_t2p1_1": {
+            "label": 0,
+            "color": [
+                126,
+                16,
+                88
+            ],
+            "inst_id": 170
+        },
+        "DAVIDOFF_t2p1_10": {
+            "label": 0,
+            "color": [
+                3,
+                199,
+                182
+            ],
+            "inst_id": 171
+        },
+        "DAVIDOFF_t2p1_11": {
+            "label": 0,
+            "color": [
+                140,
+                37,
+                171
+            ],
+            "inst_id": 172
+        },
+        "DAVIDOFF_t2p1_2": {
+            "label": 0,
+            "color": [
+                53,
+                101,
+                14
+            ],
+            "inst_id": 173
+        },
+        "DAVIDOFF_t2p1_3": {
+            "label": 0,
+            "color": [
+                240,
+                101,
+                38
+            ],
+            "inst_id": 174
+        },
+        "DAVIDOFF_t2p1_4": {
+            "label": 0,
+            "color": [
+                223,
+                162,
+                82
+            ],
+            "inst_id": 175
+        },
+        "DAVIDOFF_t2p1_5": {
+            "label": 0,
+            "color": [
+                223,
+                205,
+                29
+            ],
+            "inst_id": 176
+        },
+        "DAVIDOFF_t2p1_6": {
+            "label": 0,
+            "color": [
+                41,
+                122,
+                216
+            ],
+            "inst_id": 177
+        },
+        "DAVIDOFF_t2p1_7": {
+            "label": 0,
+            "color": [
+                213,
+                147,
+                120
+            ],
+            "inst_id": 178
+        },
+        "DAVIDOFF_t2p1_8": {
+            "label": 0,
+            "color": [
+                95,
+                231,
+                170
+            ],
+            "inst_id": 179
+        },
+        "DAVIDOFF_t2p1_9": {
+            "label": 0,
+            "color": [
+                98,
+                187,
+                251
+            ],
+            "inst_id": 180
+        },
+        "DAVIDOFF_t3p1_1": {
+            "label": 0,
+            "color": [
+                255,
+                94,
+                200
+            ],
+            "inst_id": 181
+        },
+        "DAVIDOFF_t3p1_10": {
+            "label": 0,
+            "color": [
+                232,
+                129,
+                128
+            ],
+            "inst_id": 182
+        },
+        "DAVIDOFF_t3p1_11": {
+            "label": 0,
+            "color": [
+                79,
+                59,
+                11
+            ],
+            "inst_id": 183
+        },
+        "DAVIDOFF_t3p1_12": {
+            "label": 0,
+            "color": [
+                74,
+                31,
+                174
+            ],
+            "inst_id": 184
+        },
+        "DAVIDOFF_t3p1_13": {
+            "label": 0,
+            "color": [
+                144,
+                73,
+                49
+            ],
+            "inst_id": 185
+        },
+        "DAVIDOFF_t3p1_14": {
+            "label": 0,
+            "color": [
+                174,
+                216,
+                242
+            ],
+            "inst_id": 186
+        },
+        "DAVIDOFF_t3p1_15": {
+            "label": 0,
+            "color": [
+                136,
+                132,
+                229
+            ],
+            "inst_id": 187
+        },
+        "DAVIDOFF_t3p1_16": {
+            "label": 0,
+            "color": [
+                226,
+                221,
+                70
+            ],
+            "inst_id": 188
+        },
+        "DAVIDOFF_t3p1_2": {
+            "label": 0,
+            "color": [
+                135,
+                243,
+                37
+            ],
+            "inst_id": 189
+        },
+        "DAVIDOFF_t3p1_3": {
+            "label": 0,
+            "color": [
+                232,
+                11,
+                196
+            ],
+            "inst_id": 190
+        },
+        "DAVIDOFF_t3p1_4": {
+            "label": 0,
+            "color": [
+                108,
+                214,
+                202
+            ],
+            "inst_id": 191
+        },
+        "DAVIDOFF_t3p1_5": {
+            "label": 0,
+            "color": [
+                32,
+                195,
+                5
+            ],
+            "inst_id": 192
+        },
+        "DAVIDOFF_t3p1_6": {
+            "label": 0,
+            "color": [
+                123,
+                89,
+                125
+            ],
+            "inst_id": 193
+        },
+        "DAVIDOFF_t3p1_7": {
+            "label": 0,
+            "color": [
+                245,
+                46,
+                152
+            ],
+            "inst_id": 194
+        },
+        "DAVIDOFF_t3p1_8": {
+            "label": 0,
+            "color": [
+                238,
+                43,
+                64
+            ],
+            "inst_id": 195
+        },
+        "DAVIDOFF_t3p1_9": {
+            "label": 0,
+            "color": [
+                8,
+                56,
+                145
+            ],
+            "inst_id": 196
+        },
+        "DAVIDOFF_t4p1_1": {
+            "label": 0,
+            "color": [
+                228,
+                30,
+                124
+            ],
+            "inst_id": 197
+        },
+        "DAVIDOFF_t4p1_10": {
+            "label": 0,
+            "color": [
+                72,
+                253,
+                25
+            ],
+            "inst_id": 198
+        },
+        "DAVIDOFF_t4p1_11": {
+            "label": 0,
+            "color": [
+                130,
+                12,
+                61
+            ],
+            "inst_id": 199
+        },
+        "DAVIDOFF_t4p1_12": {
+            "label": 0,
+            "color": [
+                218,
+                21,
+                25
+            ],
+            "inst_id": 200
+        },
+        "DAVIDOFF_t4p1_13": {
+            "label": 0,
+            "color": [
+                60,
+                224,
+                58
+            ],
+            "inst_id": 201
+        },
+        "DAVIDOFF_t4p1_14": {
+            "label": 0,
+            "color": [
+                186,
+                44,
+                97
+            ],
+            "inst_id": 202
+        },
+        "DAVIDOFF_t4p1_15": {
+            "label": 0,
+            "color": [
+                193,
+                123,
+                244
+            ],
+            "inst_id": 203
+        },
+        "DAVIDOFF_t4p1_2": {
+            "label": 0,
+            "color": [
+                124,
+                183,
+                215
+            ],
+            "inst_id": 204
+        },
+        "DAVIDOFF_t4p1_3": {
+            "label": 0,
+            "color": [
+                102,
+                21,
+                48
+            ],
+            "inst_id": 205
+        },
+        "DAVIDOFF_t4p1_4": {
+            "label": 0,
+            "color": [
+                153,
+                54,
+                1
+            ],
+            "inst_id": 206
+        },
+        "DAVIDOFF_t4p1_5": {
+            "label": 0,
+            "color": [
+                165,
+                43,
+                64
+            ],
+            "inst_id": 207
+        },
+        "DAVIDOFF_t4p1_6": {
+            "label": 0,
+            "color": [
+                52,
+                64,
+                172
+            ],
+            "inst_id": 208
+        },
+        "DAVIDOFF_t4p1_7": {
+            "label": 0,
+            "color": [
+                107,
+                74,
+                41
+            ],
+            "inst_id": 209
+        },
+        "DAVIDOFF_t4p1_8": {
+            "label": 0,
+            "color": [
+                19,
+                107,
+                60
+            ],
+            "inst_id": 210
+        },
+        "DAVIDOFF_t4p1_9": {
+            "label": 0,
+            "color": [
+                223,
+                23,
+                255
+            ],
+            "inst_id": 211
+        },
+        "DAVIDOFF_t5p1_1": {
+            "label": 0,
+            "color": [
+                71,
+                199,
+                251
+            ],
+            "inst_id": 212
+        },
+        "DAVIDOFF_t5p1_10": {
+            "label": 0,
+            "color": [
+                168,
+                124,
+                122
+            ],
+            "inst_id": 213
+        },
+        "DAVIDOFF_t5p1_11": {
+            "label": 0,
+            "color": [
+                130,
+                246,
+                158
+            ],
+            "inst_id": 214
+        },
+        "DAVIDOFF_t5p1_12": {
+            "label": 0,
+            "color": [
+                57,
+                114,
+                180
+            ],
+            "inst_id": 215
+        },
+        "DAVIDOFF_t5p1_13": {
+            "label": 0,
+            "color": [
+                104,
+                84,
+                99
+            ],
+            "inst_id": 216
+        },
+        "DAVIDOFF_t5p1_2": {
+            "label": 0,
+            "color": [
+                145,
+                181,
+                158
+            ],
+            "inst_id": 217
+        },
+        "DAVIDOFF_t5p1_3": {
+            "label": 0,
+            "color": [
+                75,
+                243,
+                4
+            ],
+            "inst_id": 218
+        },
+        "DAVIDOFF_t5p1_4": {
+            "label": 0,
+            "color": [
+                248,
+                133,
+                234
+            ],
+            "inst_id": 219
+        },
+        "DAVIDOFF_t5p1_5": {
+            "label": 0,
+            "color": [
+                18,
+                120,
+                10
+            ],
+            "inst_id": 220
+        },
+        "DAVIDOFF_t5p1_6": {
+            "label": 0,
+            "color": [
+                195,
+                81,
+                115
+            ],
+            "inst_id": 221
+        },
+        "DAVIDOFF_t5p1_7": {
+            "label": 0,
+            "color": [
+                186,
+                138,
+                56
+            ],
+            "inst_id": 222
+        },
+        "DAVIDOFF_t5p1_8": {
+            "label": 0,
+            "color": [
+                76,
+                164,
+                179
+            ],
+            "inst_id": 223
+        },
+        "DAVIDOFF_t5p1_9": {
+            "label": 0,
+            "color": [
+                252,
+                71,
+                108
+            ],
+            "inst_id": 224
+        },
+        "HUGO_t1p1_1": {
+            "label": 0,
+            "color": [
+                212,
+                224,
+                248
+            ],
+            "inst_id": 237
+        },
+        "HUGO_t1p1_2": {
+            "label": 0,
+            "color": [
+                192,
+                91,
+                102
+            ],
+            "inst_id": 238
+        },
+        "HUGO_t1p1_2.001": {
+            "label": 0,
+            "color": [],
+            "inst_id": 239
+        },
+        "HUGO_t1p2_1": {
+            "label": 0,
+            "color": [
+                241,
+                78,
+                50
+            ],
+            "inst_id": 240
+        },
+        "HUGO_t1p2_2": {
+            "label": 0,
+            "color": [
+                46,
+                25,
+                151
+            ],
+            "inst_id": 241
+        },
+        "HUGO_t1p2_3": {
+            "label": 0,
+            "color": [
+                181,
+                86,
+                63
+            ],
+            "inst_id": 242
+        },
+        "HUGO_t1p2_4": {
+            "label": 0,
+            "color": [],
+            "inst_id": 243
+        },
+        "HUGO_t1p2_5": {
+            "label": 0,
+            "color": [
+                183,
+                167,
+                94
+            ],
+            "inst_id": 244
+        },
+        "HUGO_t1p2_6": {
+            "label": 0,
+            "color": [
+                253,
+                255,
+                78
+            ],
+            "inst_id": 245
+        },
+        "HUGO_t2p1_1": {
+            "label": 0,
+            "color": [
+                94,
+                26,
+                36
+            ],
+            "inst_id": 246
+        },
+        "HUGO_t2p1_2": {
+            "label": 0,
+            "color": [
+                30,
+                118,
+                190
+            ],
+            "inst_id": 247
+        },
+        "HUGO_t2p1_3": {
+            "label": 0,
+            "color": [
+                137,
+                101,
+                58
+            ],
+            "inst_id": 248
+        },
+        "HUGO_t2p1_4": {
+            "label": 0,
+            "color": [
+                45,
+                248,
+                56
+            ],
+            "inst_id": 249
+        },
+        "HUGO_t2p1_5": {
+            "label": 0,
+            "color": [],
+            "inst_id": 250
+        },
+        "HUGO_t2p1_6": {
+            "label": 0,
+            "color": [
+                196,
+                101,
+                8
+            ],
+            "inst_id": 251
+        },
+        "HUGO_t2p1_7": {
+            "label": 0,
+            "color": [],
+            "inst_id": 252
+        },
+        "HUGO_t3p1_1": {
+            "label": 0,
+            "color": [
+                193,
+                136,
+                217
+            ],
+            "inst_id": 253
+        },
+        "HUGO_t3p1_2": {
+            "label": 0,
+            "color": [
+                238,
+                224,
+                202
+            ],
+            "inst_id": 254
+        },
+        "HUGO_t3p1_3": {
+            "label": 0,
+            "color": [
+                242,
+                26,
+                29
+            ],
+            "inst_id": 255
+        },
+        "HUGO_t3p1_4": {
+            "label": 0,
+            "color": [
+                51,
+                169,
+                90
+            ],
+            "inst_id": 256
+        },
+        "HUGO_t3p1_5": {
+            "label": 0,
+            "color": [
+                235,
+                122,
+                89
+            ],
+            "inst_id": 257
+        },
+        "HUGO_t3p1_6": {
+            "label": 0,
+            "color": [
+                146,
+                28,
+                90
+            ],
+            "inst_id": 258
+        },
+        "HUGO_t3p1_7": {
+            "label": 0,
+            "color": [
+                30,
+                32,
+                231
+            ],
+            "inst_id": 259
+        },
+        "HUGO_t4p1_1": {
+            "label": 0,
+            "color": [
+                48,
+                99,
+                44
+            ],
+            "inst_id": 260
+        },
+        "HUGO_t4p1_2": {
+            "label": 0,
+            "color": [
+                173,
+                107,
+                107
+            ],
+            "inst_id": 261
+        },
+        "HUGO_t4p1_3": {
+            "label": 0,
+            "color": [
+                90,
+                80,
+                84
+            ],
+            "inst_id": 262
+        },
+        "HUGO_t4p1_4": {
+            "label": 0,
+            "color": [
+                42,
+                82,
+                199
+            ],
+            "inst_id": 263
+        },
+        "HUGO_t4p1_5": {
+            "label": 0,
+            "color": [
+                122,
+                52,
+                74
+            ],
+            "inst_id": 264
+        },
+        "HUGO_t5p1_1": {
+            "label": 0,
+            "color": [
+                95,
+                60,
+                108
+            ],
+            "inst_id": 265
+        },
+        "HUGO_t5p1_2": {
+            "label": 0,
+            "color": [
+                20,
+                99,
+                128
+            ],
+            "inst_id": 266
+        },
+        "HUGO_t5p1_3": {
+            "label": 0,
+            "color": [
+                214,
+                149,
+                31
+            ],
+            "inst_id": 267
+        },
+        "HUGO_t5p1_4": {
+            "label": 0,
+            "color": [
+                6,
+                61,
+                250
+            ],
+            "inst_id": 268
+        },
+        "HUGO_t5p1_5": {
+            "label": 0,
+            "color": [
+                193,
+                32,
+                93
+            ],
+            "inst_id": 269
+        },
+        "Plane.009": {
+            "label": 0,
+            "color": [],
+            "inst_id": 280
+        }
+    },
+    "shelf": {
+        "BOSS_SHELF": {
+            "label": 1,
+            "color": [
+                205,
+                187,
+                20
+            ],
+            "inst_id": 3
+        },
+        "CK_SHELF": {
+            "label": 1,
+            "color": [],
+            "inst_id": 58
+        },
+        "DAVIDOFF_SHELF": {
+            "label": 1,
+            "color": [
+                168,
+                108,
+                12
+            ],
+            "inst_id": 164
+        },
+        "HUGO_SHELF": {
+            "label": 1,
+            "color": [
+                3,
+                129,
+                23
+            ],
+            "inst_id": 236
+        }
+    },
+    "testor": {
+        "bossTESTOR_t1p1_1": {
+            "label": 2,
+            "color": [
+                127,
+                27,
+                27
+            ],
+            "inst_id": 46
+        },
+        "bossTESTOR_t1p1_2": {
+            "label": 2,
+            "color": [
+                39,
+                150,
+                171
+            ],
+            "inst_id": 47
+        },
+        "bossTESTOR_t1p1_3": {
+            "label": 2,
+            "color": [
+                71,
+                120,
+                164
+            ],
+            "inst_id": 48
+        },
+        "bossTESTOR_t2p1_1": {
+            "label": 2,
+            "color": [
+                3,
+                3,
+                200
+            ],
+            "inst_id": 49
+        },
+        "bossTESTOR_t2p1_2": {
+            "label": 2,
+            "color": [
+                206,
+                62,
+                8
+            ],
+            "inst_id": 50
+        },
+        "bossTESTOR_t2p1_3": {
+            "label": 2,
+            "color": [
+                154,
+                236,
+                8
+            ],
+            "inst_id": 51
+        },
+        "bossTESTOR_t4p1": {
+            "label": 2,
+            "color": [
+                139,
+                229,
+                200
+            ],
+            "inst_id": 52
+        },
+        "bossTESTOR_t4p1_2": {
+            "label": 2,
+            "color": [
+                162,
+                20,
+                1
+            ],
+            "inst_id": 53
+        },
+        "bossTESTOR_t5p1_1": {
+            "label": 2,
+            "color": [
+                204,
+                48,
+                245
+            ],
+            "inst_id": 54
+        },
+        "bossTESTOR_t5p1_2": {
+            "label": 2,
+            "color": [
+                103,
+                215,
+                186
+            ],
+            "inst_id": 55
+        },
+        "ckTESTOR_t1p1_1": {
+            "label": 2,
+            "color": [],
+            "inst_id": 155
+        },
+        "ckTESTOR_t1p1_2": {
+            "label": 2,
+            "color": [],
+            "inst_id": 156
+        },
+        "ckTESTOR_t2p1": {
+            "label": 2,
+            "color": [],
+            "inst_id": 157
+        },
+        "ckTESTOR_t3p1_1": {
+            "label": 2,
+            "color": [],
+            "inst_id": 158
+        },
+        "ckTESTOR_t3p2_1": {
+            "label": 2,
+            "color": [],
+            "inst_id": 159
+        },
+        "ckTESTOR_t3p2_2": {
+            "label": 2,
+            "color": [],
+            "inst_id": 160
+        },
+        "ckTESTOR_t4p1": {
+            "label": 2,
+            "color": [],
+            "inst_id": 161
+        },
+        "ckTESTOR_t5p1": {
+            "label": 2,
+            "color": [],
+            "inst_id": 162
+        },
+        "davidoffTESTOR_t1p1": {
+            "label": 2,
+            "color": [
+                44,
+                24,
+                26
+            ],
+            "inst_id": 225
+        },
+        "davidoffTESTOR_t2p1": {
+            "label": 2,
+            "color": [
+                237,
+                129,
+                208
+            ],
+            "inst_id": 226
+        },
+        "davidoffTESTOR_t3p1_1": {
+            "label": 2,
+            "color": [
+                153,
+                109,
+                174
+            ],
+            "inst_id": 227
+        },
+        "davidoffTESTOR_t3p1_2": {
+            "label": 2,
+            "color": [
+                154,
+                138,
+                172
+            ],
+            "inst_id": 228
+        },
+        "davidoffTESTOR_t4p1_1": {
+            "label": 2,
+            "color": [
+                29,
+                119,
+                115
+            ],
+            "inst_id": 229
+        },
+        "davidoffTESTOR_t4p1_2": {
+            "label": 2,
+            "color": [
+                139,
+                146,
+                4
+            ],
+            "inst_id": 230
+        },
+        "davidoffTESTOR_t5p1_1": {
+            "label": 2,
+            "color": [
+                210,
+                71,
+                124
+            ],
+            "inst_id": 231
+        },
+        "davidoffTESTOR_t5p1_2": {
+            "label": 2,
+            "color": [
+                66,
+                241,
+                37
+            ],
+            "inst_id": 232
+        },
+        "hugoTESTOR_t1p1_1": {
+            "label": 2,
+            "color": [
+                165,
+                224,
+                137
+            ],
+            "inst_id": 270
+        },
+        "hugoTESTOR_t1p1_2": {
+            "label": 2,
+            "color": [
+                250,
+                21,
+                160
+            ],
+            "inst_id": 271
+        },
+        "hugoTESTOR_t1p2_1": {
+            "label": 2,
+            "color": [
+                143,
+                153,
+                221
+            ],
+            "inst_id": 272
+        },
+        "hugoTESTOR_t1p2_2": {
+            "label": 2,
+            "color": [
+                116,
+                38,
+                77
+            ],
+            "inst_id": 273
+        },
+        "hugoTESTOR_t2p1_1": {
+            "label": 2,
+            "color": [
+                116,
+                27,
+                63
+            ],
+            "inst_id": 274
+        },
+        "hugoTESTOR_t2p1_2": {
+            "label": 2,
+            "color": [
+                107,
+                149,
+                31
+            ],
+            "inst_id": 275
+        },
+        "hugoTESTOR_t3p1_1": {
+            "label": 2,
+            "color": [
+                42,
+                92,
+                147
+            ],
+            "inst_id": 276
+        },
+        "hugoTESTOR_t3p1_2": {
+            "label": 2,
+            "color": [
+                75,
+                80,
+                138
+            ],
+            "inst_id": 277
+        },
+        "hugoTESTOR_t4p1": {
+            "label": 2,
+            "color": [
+                194,
+                151,
+                17
+            ],
+            "inst_id": 278
+        },
+        "hugoTESTOR_t5p1": {
+            "label": 2,
+            "color": [
+                142,
+                74,
+                130
+            ],
+            "inst_id": 279
+        }
+    },
+    "banner": {
+        "BOSS_BANNER": {
+            "label": 3,
+            "color": [
+                171,
+                6,
+                199
+            ],
+            "inst_id": 1
+        },
+        "CK_BANNER": {
+            "label": 3,
+            "color": [],
+            "inst_id": 56
+        },
+        "DAVIDOFF_BANNER": {
+            "label": 3,
+            "color": [
+                223,
+                167,
+                124
+            ],
+            "inst_id": 163
+        },
+        "HUGO_BANNER": {
+            "label": 3,
+            "color": [
+                158,
+                116,
+                115
+            ],
+            "inst_id": 234
+        }
+    },
+    "brand": {
+        "boss_brand_name": {
+            "label": 4,
+            "color": [
+                71,
+                142,
+                195
+            ],
+            "inst_id": 2
+        },
+        "CK_brand_name": {
+            "label": 4,
+            "color": [],
+            "inst_id": 57
+        },
+        "devidoff_brand_name": {
+            "label": 4,
+            "color": [
+                90,
+                127,
+                213
+            ],
+            "inst_id": 233
+        },
+        "hugo_brand_name": {
+            "label": 4,
+            "color": [
+                48,
+                37,
+                16
+            ],
+            "inst_id": 235
+        }
+    }
+}
